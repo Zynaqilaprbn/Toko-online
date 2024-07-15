@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(233, 230, 224);
+}
+
+.HALLO {
+    margin-top: 200px;
+    margin-left: 385px;
+}
+
+.hallo {
+    font-size: 90px;
+}
+
+.h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.h3p {
+    margin-left: 290px;
+    margin-right: 320px;
+    text-align: center;
+    margin-top: 18px;
+}

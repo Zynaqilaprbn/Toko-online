@@ -1,0 +1,328 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(233, 230, 224);
+}
+.zapcompany {
+    font-size: 40px;
+    padding-top: 30px;
+    padding-left: 45px;
+    font-style: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.home {
+    font-size: 23px;
+    margin-left: 440px;
+    margin-top: -33px;
+}
+
+.homee {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: rgb(182, 146, 50);
+}
+
+.shop {
+    font-size: 23px;
+    margin-left: 540px;
+    margin-top: -26px;
+}
+
+.shopp {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: rgb(182, 146, 50);
+}
+
+.blog {
+    font-size: 23px;
+    margin-left: 630px;
+    margin-top: -26px;
+}
+
+.blogg {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: rgb(182, 146, 50);
+}
+
+.port {
+    font-size: 23px;
+    margin-left: 720px;
+    margin-top: -25px;
+}
+
+.portt {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: rgb(182, 146, 50);
+}
+
+.contact {
+    font-size: 23px;
+    margin-left: 845px;
+    margin-top: -26px;
+}
+
+.contactt {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: rgb(182, 146, 50);
+}
+
+.signin {
+    font-size: 20px;
+    margin-left: 1040px;
+    margin-top: -23px;
+}
+
+.signinn {
+    color: rgb(89, 70, 47);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+
+.register {
+    font-size: 20px;
+    margin-left: 1150px;
+    margin-top: -23px;
+}
+
+.registerr {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    background-color: rgb(207, 184, 108);
+    border-radius: 30px;
+    color: rgb(54, 34, 0);
+}
+
+.container {
+    margin-bottom: 35px;
+    padding-bottom: 40px;
+    border-bottom: 3px rgb(168, 163, 163) solid;
+}
+
+.img1 {
+    width: 100%;
+    margin-top: -35px;
+}
+
+.MODEL {
+    margin-bottom: 240px;
+}
+
+.profmodel {
+    margin-top: -500px;
+    margin-left: 60px;
+    font-size: 70px;
+    color: wheat;
+}
+
+.isiprofmodel {
+    color: white;
+    margin-left: 63px;
+    margin-right: 600px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+
+.shopnowbutton {
+    border: 3px solid grey;
+    padding: 15px;
+    text-decoration: none;
+    color: rgb(184, 179, 171);
+    border-radius: 50px;
+    background-color: black;
+    margin-left: 63px;
+
+}
+
+.pilihan {
+    margin-top: -90px;
+    margin-bottom: 80px;
+}
+
+.divpil1 {
+    margin-bottom: -41px;
+    margin-left: 180px;
+}
+
+.pil1 {
+    font-size: 20px;
+    font-weight: 800;
+    background-color: rgb(170, 161, 148);
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 179px;
+    padding-bottom: 30px;
+}
+
+.isipil1 {
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 4px;
+}
+
+.divpil2 {
+    margin-left: 480px;
+}
+
+.pil2 {
+    font-size: 20px;
+    font-weight: 800;
+    background-color: rgb(170, 161, 148);
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 179px;
+    padding-bottom: 30px;
+}
+
+.isipil2 {
+    margin-left: 14px;
+    margin-top: 5px;
+    font-size: 13px;
+}
+
+.divpil3 {
+    margin-top: -42px;
+    margin-left: 792px;
+}
+
+.pil3 {
+    font-size: 20px;
+    font-weight: 800;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 130px;
+    padding-bottom: 30px;
+    background-color: rgb(170, 161, 148);
+    text-decoration: none;
+    color: white;
+}
+
+.isipil3 {
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: 13px;
+}
+
+.pilihanke2 {
+    display: inline-block;
+    padding-bottom: 400px;
+}
+
+.allproduct {
+    color: rgb(68, 55, 55);
+    margin-left: 60px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.cloths {
+    color: rgb(68, 55, 55);
+    margin-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.pants {
+    color: rgb(68, 55, 55);
+    margin-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.bags {
+    color: rgb(68, 55, 55);
+    margin-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.accesories {
+    color: rgb(68, 55, 55);
+    margin-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.heels {
+    color: rgb(68, 55, 55);
+    margin-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.shoes {
+    color: rgb(68, 55, 55);
+    margin-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.comingsoon1 {
+    margin-top: 400px;
+    margin-bottom: 100px;
+}
+
+.comingsoon {
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+    background-color:  rgb(68, 55, 55);
+    font-weight: 600px;
+    border-radius: 80px;
+    text-decoration: none;
+    border: 3px solid white;
+    box-shadow: 5px 6px 10px rgb(103, 100, 100);
+    margin-left: 570px;
+}
+
+.filter {
+    color: rgb(68, 55, 55);
+    margin-left: 300px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+} 
+
+.search {
+    color: rgb(68, 55, 55);
+    margin-left: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+}

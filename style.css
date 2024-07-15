@@ -1,0 +1,498 @@
+* { 
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(233, 230, 224);
+}
+
+.zapcompany {
+    font-size: 40px;
+    padding-top: 30px;
+    padding-left: 45px;
+    font-style: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.home {
+    font-size: 23px;
+    margin-left: 440px;
+    margin-top: -30px;
+}
+
+.homee {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: rgb(182, 146, 50);
+}
+
+.shop {
+    font-size: 23px;
+    margin-left: 540px;
+    margin-top: -26px;
+}
+
+.shopp {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: rgb(182, 146, 50);
+}
+
+.blog {
+    font-size: 23px;
+    margin-left: 630px;
+    margin-top: -25px;
+}
+
+.blogg {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: rgb(182, 146, 50);
+}
+
+.port {
+    font-size: 23px;
+    margin-left: 720px;
+    margin-top: -24px;
+}
+
+.portt {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    color: rgb(182, 146, 50);
+}
+
+.contact {
+    font-size: 23px;
+    margin-left: 845px;
+    margin-top: -25px;
+}
+
+.contactt {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: rgb(182, 146, 50);
+}
+
+.signin {
+    font-size: 20px;
+    margin-left: 1040px;
+    margin-top: -23px;
+}
+
+.signinn {
+    color: rgb(89, 70, 47);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(233, 230, 224);
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+.register {
+    font-size: 20px;
+    margin-left: 1150px;
+    margin-top: -23px;
+}
+
+.registerr {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    background-color: rgb(207, 184, 108);
+    border-radius: 30px;
+    color: rgb(54, 34, 0);
+}
+
+.container {
+    margin-bottom: 35px;
+    padding-bottom: 40px;
+    border-bottom: 3px rgb(168, 163, 163) solid;
+}
+
+.inspiration {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 480px;
+    padding-right: 480px;
+    font-style: bold;
+    padding-bottom: 10px;
+}
+
+.penjelasaninsp {
+    text-align: center;
+    margin-left: 430px;
+    margin-right: 430px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(148, 151, 154);
+}
+
+.imagecontainer {
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
+.image1 {
+    height: 350px;
+    padding-left: 150px;
+    padding-right: 123px;
+}
+
+.blueshirt {
+    padding: 15px;
+    margin-left: 140px;
+    border-radius: 4px rgb(138, 46, 46) solid;
+}
+
+.blueshirta {
+    border : 3px grey solid;
+    padding: 14px;
+    border-radius: 25px;
+}
+
+.whitebag {
+    padding: 15px;
+    margin-left: 140px;
+    border-radius: 4px rgb(138, 46, 46) solid;
+    margin-top: 18px;
+}
+
+.whitebaga {
+    border: 3px grey solid;
+    border-radius: 25px;
+    padding: 14px;
+}
+
+.whitepants {
+    padding: 15px;
+    margin-left: 140px;
+    border-radius: 4px rgb(138, 46, 46) solid;
+    margin-top: 18px;
+}
+
+.whitepantsa {
+    border: 3px grey solid;
+    border-radius: 25px;
+    padding: 14px;
+}
+
+.image2 {
+    height: 350px;
+    padding-right: 123px;
+}
+
+.ysl {
+    margin-left: 505px;
+    margin-top: -178px;
+    padding: 14px;
+    
+}
+
+.ysla {
+    padding: 14px;
+    border: 3px grey solid;
+    border-radius: 25px;
+}
+
+.balenciaga {
+    margin-left: 515px;
+    margin-top: 35px;
+    
+}
+
+.balenciagaa {
+    padding: 14px;
+    border: 3px grey solid;
+    border-radius: 25px;
+}
+
+.chanel {
+    margin-left: 515px;
+    margin-top: 48px;
+}
+
+.chanela {
+    padding: 14px;
+    border: 3px grey solid;
+    border-radius: 25px;
+}
+
+.cullotes {
+    margin-left: 515px;
+    margin-top: 48px;
+}
+
+.cullotesa {
+    padding: 14px;
+    border: 3px grey solid;
+    border-radius: 25px;
+}
+
+.image3 {
+    height: 350px;
+    width: 230px;
+    background-repeat: no-repeat;
+}
+
+.french {
+    margin-left: 875px;
+    margin-top: -219px;
+}
+
+.frencha {
+    padding: 14px;
+    border: 3px grey solid;
+    border-radius: 25px;
+}
+
+.cartier {
+    margin-left: 875px;
+    margin-top: 48px;
+
+}
+
+.cartiera {
+    padding: 14px;
+    border: 3px grey solid;
+    border-radius: 25px;
+}
+
+.gucci {
+    margin-left: 875px;
+    margin-top: 48px;
+}
+
+.guccia {
+    padding: 14px;
+    border: 3px grey solid;
+    border-radius: 25px;
+}
+
+.container2 {
+    margin-top: 230px;
+    margin-bottom: 70px;
+}
+
+.paragraf {
+    margin-top: 70px;
+    margin-bottom: 40px;
+    text-align: center;
+    margin-left: 350px;
+    margin-right:350px;
+}
+
+.delivery {
+    margin-top: 80px;
+    margin-left: 220px;
+    margin-bottom: -60px;
+}
+
+.car {
+    width: 40px;
+    height: 40px;
+    margin-left: 240px;
+    background-color: white;
+}
+
+.deliveryy {
+    font-size: 18px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+    padding-top: 54px;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    box-shadow: 10px 10px 20px rgb(192, 181, 181);
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    letter-spacing: 1px;
+}
+
+.payment {
+    margin-top: -5px;
+    margin-left: 560px;  
+    margin-bottom: -65px; 
+}
+
+.visa {
+    margin-top: 10px;
+    background-color: white;
+    width: 50px;
+    height: 30px;
+    margin-left: 572px;
+}
+
+.paymentt {
+    text-decoration: none;
+    padding: 14px;
+    color: black;
+    background-color: white;
+    box-shadow: 10px 10px 10px rgb(192, 181, 181);
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 14px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    letter-spacing: 1px;
+}
+.more {
+    margin-top: 0px;
+    margin-left: 870px;
+    margin-bottom: -70px;
+}
+
+.treeple {
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    margin-left: 882px;
+    margin-top: 10px;
+}
+
+.moree {
+    text-decoration: none;
+    padding: 14px;
+    color: black;
+    background-color: white;
+    box-shadow: 10px 10px 10px rgb(192, 181, 181);
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-left: 14px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    letter-spacing: 2px;
+}
+
+.image4 {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.divimage4 {
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.image5 {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.divimage5 {
+    margin-top: 20px;
+    margin-left: 348px;
+}
+
+.image6 {
+    width: 200px;
+    height: 210px;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.divimage6 {
+    margin-left: 120px;
+    margin-top: -210px;
+}
+
+.image7 {
+    width: 200px;
+    height: 200px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.divimage7 {
+    margin-left: 350px;
+    margin-top: -430px;
+}
+
+
+.judulbesar {
+    margin-left: 600px;
+    font-size: 50px;
+    margin-top: -180px;
+}
+
+.intibesar {
+    margin-left: 600px;
+    margin-right: 40px;
+    margin-top: 20px;
+    color: rgb(113, 109, 109);
+    font-weight: 700;
+    font-style: italic;
+}
+
+.intibesar2 {
+    margin-left: 600px;
+    color: rgb(145, 129, 90);
+    margin-right: 40px;
+    margin-top: 20px;
+    font-weight: 300;
+}
+
+.getstarted {
+    padding: 14px;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border-radius: 25px;
+    border: none;
+    box-shadow: 5px 5px 10px grey;
+    text-decoration: none;
+    color: rgb(111, 101, 66);
+}
+
+.divgetstarted {
+    margin-left: 600px;
+    margin-top: 50px;
+
+}
+
+.allproduct {
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border: none;
+    border-radius: 30px;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 5px 5px 10px grey;
+    text-decoration: none;
+    color: rgb(100, 71, 18);
+}
+
+.divallproduct {
+    margin-top: 160px;
+    margin-left: 580px;
+    margin-bottom: 110px;
+}
